@@ -40,6 +40,8 @@ The best thing that can be done is to get your own fingerprint file, or to use o
   - https://github.com/daboynb/PlayIntegrityNEXT / https://github.com/daboynb/playcurlNEXT (easier to use)
   - https://github.com/osm0sis/PlayIntegrityFork?tab=readme-ov-file#about-autopif2sh-and-killpish-script-files (see https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-387#post-89233630 for a tutorial from the author)
 
+I personally use playcurlNEXT.
+
 Use https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck&hl=en to check the integrity (it's okay if you're unable to pass the STRONG_INTEGRITY check).
 
 Make sure to add the Play Integrity API Checker app in your Magisk Denylist
