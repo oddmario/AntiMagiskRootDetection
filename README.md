@@ -29,7 +29,7 @@ TrickyStore can be found at https://github.com/5ec1cff/TrickyStore
 
 You can also check https://www.reddit.com/r/Magisk/comments/1gegtr4/tutorial_using_trickystore_with_zygisk_next_for/ for a tutorial (but ignore the part that says "remove PlayIntegrityFix to avoid conflicts")
 
-## Also,
+### Also,
 
 It seems that the PIF/fingerprints served with the PlayIntegrityFix module now get banned way faster than before (although the dev of the module actively updates the fingerprints).
 
